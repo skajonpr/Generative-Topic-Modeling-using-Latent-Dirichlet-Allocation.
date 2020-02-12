@@ -1,7 +1,8 @@
 # Generative-Topic-Modeling-using-Latent-Dirichlet-Allocation.
-This program is to generate topics of news using Latent Dirichlet Allocation technique.
 
-Two json files are imported to test and train the model.
+This program is to generate topics out of a dateset of news and articles by using Latent Dirichlet Allocation technique.
+
+There are 2 json files which are the mixture of news categories. One is imported to fit the model, and the other one is imported to test the model whether how accurate the model is.
 
 File example:
 
